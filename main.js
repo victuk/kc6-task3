@@ -88,3 +88,7 @@ async function runPipeline() {
 }
 
 runPipeline();
+
+// node main.js "Can I get a loan for 2 million Naira?"
+// or
+// pnpm dev "Can I get a loan for 2 million Naira?"
