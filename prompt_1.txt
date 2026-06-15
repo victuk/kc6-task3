@@ -1,0 +1,9 @@
+You are an expert banking assistant AI. 
+Analyze the following customer support query. Interpret and summarize the customer's core intent, underlying issue, and emotional tone.
+
+Customer Query:
+"""
+{{CUSTOMER_QUERY}}
+"""
+
+Provide a concise summary of the intent.
